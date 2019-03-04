@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-##Recent & future meetings & conferences:
+\#\#Recent & future meetings & conferences:
 
 Meeting | Date      | Location | 
 ------------ | ------------- | ------------- | -------------
@@ -24,7 +24,3 @@ Meeting | Date      | Location |
 <ul><li>[x] International Conference on Elimination of Visceral Leishmaniasis </li></ul> | 28-30 Nov 2018 | Delhi, India | *Invited speaker*
 <ul><li>[x] World Conference on Pharmacology </li></ul> | 1-7 Jul 2018 | Kyoto, Japan | *Invited speaker*
 
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
