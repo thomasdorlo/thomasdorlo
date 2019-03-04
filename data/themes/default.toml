@@ -1,0 +1,20 @@
+# Theme metadata
+#name = "Default"
+
+# Is theme light or dark?
+#light = true
+
+# Primary
+#primary = "rgb(0,128,128)"
+#primary_light = "rgb(0,128,128)"
+#primary_dark = "rgb(0,128,128)"
+
+# Menu
+#menu_primary = "#fff"
+#menu_text = "rgb(0,128,128)"
+#menu_text_active = "rgb(0, 204, 204)"
+#menu_title = "#2b2b2b"
+
+# Home sections
+#home_section_odd = "rgb(255, 255, 255)"
+#home_section_even = "rgb(247, 247, 247)"

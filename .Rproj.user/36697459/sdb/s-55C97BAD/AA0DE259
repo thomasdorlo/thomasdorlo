@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Theme metadata\n#name = \"Default\"\n\n# Is theme light or dark?\n#light = true\n\n# Primary\n#primary = \"rgb(0,128,128)\"\n#primary_light = \"rgb(0,128,128)\"\n#primary_dark = \"rgb(0,128,128)\"\n\n# Menu\n#menu_primary = \"#fff\"\n#menu_text = \"rgb(0,128,128)\"\n#menu_text_active = \"rgb(0, 204, 204)\"\n#menu_title = \"#2b2b2b\"\n\n# Home sections\n#home_section_odd = \"rgb(255, 255, 255)\"\n#home_section_even = \"rgb(247, 247, 247)\"\n",
+    "created" : 1550575527248.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1968934782",
+    "id" : "AA0DE259",
+    "lastKnownWriteTime" : 1550575608,
+    "last_content_update" : 1550575608488,
+    "path" : "C:/Users/t.dorlo/Dropbox/Site/academic-kickstart-master/data/themes/default.toml",
+    "project_path" : "data/themes/default.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
