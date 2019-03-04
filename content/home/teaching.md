@@ -6,13 +6,24 @@ widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Conferences & Meetings"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 60
 
 +++
+
+Recent & future meetings & conferences:
+
+Meeting | Date     | Location | 
+------------ | ------------- | ------------- | -------------
+<ul><li>- []</li>< 28th PAGE meeting </ul> | 11-14 Jun 2019 | Stockholm, Sweden | *Scientific Organization Committee*
+<ul><li>- [x]</li> HIV-VL research meeting </ul> | 25 Jan 2019 | Geneva, Switzerland | *Presenting*
+<ul><li>- [x]</li> AfriKADIA meeting </ul> | 24 Jan 2019 | Geneva, Switzerland |
+<ul><li>- [x]</li> International Conference on Elimination of Visceral Leishmaniasis </ul> | 28-30 Nov 2018 | Delhi, India | *Invited speaker*
+<ul><li>- [x]</li> World Conference on Pharmacology </ul> | 1-7 Jul 2018 | Kyoto, Japan | *Invited speaker*
+
 
 This is an example of using the *custom* widget to create your own homepage section.
 

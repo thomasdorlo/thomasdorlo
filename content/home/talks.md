@@ -1,9 +1,9 @@
 +++
 # Recent and Upcoming Talks widget.
 widget = "talks"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
-title = "Recent & Upcoming Talks"
+title = "Recent & Upcoming Conferences"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -21,4 +21,5 @@ view = 2
 # Exclude talks that are shown in the Featured Talks widget?
 exclude_featured = false
 +++
+
 

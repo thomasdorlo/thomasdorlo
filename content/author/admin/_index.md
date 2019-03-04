@@ -37,7 +37,7 @@ interests = [
 
 [[education.courses]]
   course = "Fellowship Poverty-Related Diseases College"
-  institution = "University of Yaoundé I, Yaoundé, Cameroun"
+  institution = "University of YaoundÃ© I, YaoundÃ©, Cameroun"
   year = 2012
 
 [[education.courses]]
