@@ -14,8 +14,8 @@ weight = 60
 
 +++
 
-Recent & future conferences & meetings:
-------------------------------------------
+Recent & future conferences & meetings: \
+---------------------------------------
 
 
 
