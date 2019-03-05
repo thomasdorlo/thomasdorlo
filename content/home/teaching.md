@@ -17,8 +17,8 @@ weight = 60
 Recent & future conferences & meetings:
 ------------------------------------------
 
-| Meeting                        | Date&nbsp;&nbsp;&nbsp;             | Location      | 
-| ------------------------------ | ---------------- | ------------- | -------------
+| Meeting                        | Date <img width=25/>             | Location      | 
+| ------------------------------ | -------------------------------- | ------------- | -------------
 |&#9744; [28<sup>th</sup> PAGE meeting](https://www.page-meeting.org/)| 11-14 Jun 2019 | Stockholm, Sweden | *Scientific Organization Committee*
 |&#9745; HIV-VL research meeting | 25 Jan 2019 | Geneva, Switzerland | *Presenting*
 |&#9745; AfriKADIA meeting | 24 Jan 2019 | Geneva, Switzerland |
