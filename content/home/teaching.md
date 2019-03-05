@@ -14,14 +14,14 @@ weight = 60
 
 +++
 
-Recent & future meetings & conferences:
+Recent & future conferences & meetings:
 ------------------------------------------
 
-|Meeting      | Date          | Location      | 
-|------------ | ------------- | ------------- | -------------
-|<ul><li>[ ]</li> 28th PAGE meeting </ul> | 11-14 Jun 2019 | Stockholm, Sweden | *Scientific Organization Committee*
-|<ul><li>[x] HIV-VL research meeting </li></ul> | 25 Jan 2019 | Geneva, Switzerland | *Presenting*
-|<ul><li>[x] AfriKADIA meeting </li></ul> | 24 Jan 2019 | Geneva, Switzerland |
-|<ul><li>[x] International Conference on Elimination of Visceral Leishmaniasis </li></ul> | 28-30 Nov 2018 | Delhi, India | *Invited speaker*
-|<ul><li>[x] World Conference on Pharmacology </li></ul> | 1-7 Jul 2018 | Kyoto, Japan | *Invited speaker*
+| Meeting                        | Date             | Location      | 
+| ------------------------------ | ---------------- | ------------- | -------------
+|&#9744; (28<sup>th</sup> PAGE meeting)[https://www.page-meeting.org/]| 11-14 Jun 2019 | Stockholm, Sweden | *Scientific Organization Committee*
+|&#9745; HIV-VL research meeting | 25 Jan 2019 | Geneva, Switzerland | *Presenting*
+|&#9745; AfriKADIA meeting | 24 Jan 2019 | Geneva, Switzerland |
+|&#9745; (International Conference on Elimination of Visceral Leishmaniasis)[https://www.dndi.org/2018/media-centre/events/iec-vl-conference/] | 28-30 Nov 2018 | Delhi, India | *Invited speaker*
+|&#9745; (WCP2018)[http://www.wcp2018.org/]| 1-7 Jul 2018 | Kyoto, Japan | *Invited speaker*
 
