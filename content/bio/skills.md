@@ -21,17 +21,24 @@ weight = 1
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
-# [[feature]]
-#   icon = "r-project"
-#   icon_pack = "fab"
-#   name = "R user"
-#   description = "I have been an avid R user since 2010. I have used R both in the classroom as a professor, and in the lab as a scientist and NIH-funded Principal Investigator. You can find my current work for [RStudio Education on GitHub](https://github.com/rstudio-education)."
-  
+ [[feature]]
+   icon = "globe-africa"
+   icon_pack = "fas"
+   name = "Idealist"
+   description = "I firmly believe in health as a universal and fundamental human right. Unfortunately, the poorest in this world are systematically being denied this right: drugs are not being developed for the typical 'neglected' diseases they are suffering from and if drugs are available they have no access to them. My work and career are fully dedicated and guided by the conviction that even the most neglected populations and patients deserve good quality healthcare - and even a single individual can make a difference."  
+
+[[feature]]
+   icon = "flask"
+   icon_pack = "fas"
+   name = "Scientist"
+   description = "I studied pharmaceutical sciences, tropical medicine and drug innovation, receiving my PhD in 2013. My research focuses on the clinical development and optimization of drug treatment for neglected tropical diseases and, more generally, applying state-of-the-art quantitative pharmacometric methodologies to improve patient care. My research has been funded by various highly competitive grants from e.g. the [Netherlands Organization for Scientific Research](http://wwww.nwo.nl), the [European & Developing Countries Clinical Trial Partnership (EDCTP)](http://www.edctp.org/), and [Drugs for Neglected Diseases initiative](http://www.dndi.org/)."
+
+
 [[feature]]
   icon = "university"
   icon_pack = "fas"
   name = "Editor"
-  description = "I am Associate Editor for the open-access journal [Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) and member of the Scientific Organization Committee of the [Population Approach Group Europe](https://www.page-meeting.org/) meeting." 
+  description = "I am Associate Editor for the open-access journal [Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) and member of the Scientific Organisation Committee of the [Population Approach Group Europe](https://www.page-meeting.org/) meeting and steering committee member of the Pharmacometrics Network Benelux." 
   
   [[feature]]
   icon = "pencil-alt"
@@ -57,11 +64,6 @@ weight = 1
 #   name = "Data Visualization & Statistics"
 #   description = "I love exploring, analyzing, and [visualizing data](https://apreshill.github.io/data-vis-labs-2018/). Lately, I enjoy visualizing ['The Great British Bake Off'](https://alison.netlify.com/uo-tidy-bakeoff/#1) (you can too with [my R package!](http://bakeoff.netlify.com/)), and talking about how to [take a sad plot and make it better](../talk/ohsu-biodatavis)."
 # 
-# [[feature]]
-#   icon = "flask"
-#   icon_pack = "fas"
-#   name = "Scientist"
-#   description = "I studied developmental psychology and quantitative methods, finishing my PhD in 2008. [My research](https://profiles.impactstory.org/u/0000-0002-8082-1890) focused on health-related applications of Natural Language Processing-based methods, and has been funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks."
 
 
 +++
