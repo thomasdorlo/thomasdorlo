@@ -9,14 +9,14 @@ title = "THOMAS DORLO"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://thomasdorlo.rbind.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-135960495-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
