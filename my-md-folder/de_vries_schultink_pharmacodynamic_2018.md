@@ -1,6 +1,6 @@
 +++
 title = "Pharmacodynamic modeling of cardiac biomarkers in breast cancer patients treated with anthracycline and trastuzumab regimens"
-date = "2018-01-01"
+date = "2018-06-01"
 publication_types = ["2"]
 authors = ["Aurelia H. M. de Vries Schultink", "Annelies H. Boekhout", "Jourik A. Gietema", "Artur M. Burylo", "**Thomas P. C. Dorlo**", "J. G. Coen van Hasselt", "Jan H. M. Schellens", "Alwin D. R. Huitema"]
 publication = "_Journal of Pharmacokinetics and Pharmacodynamics_"

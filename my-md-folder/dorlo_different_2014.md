@@ -1,6 +1,6 @@
 +++
 title = "Different liposomal amphotericin B formulations for visceral leishmaniasis"
-date = "2014-01-01"
+date = "2014-08-01"
 publication_types = ["2"]
 authors = ["**Thomas P. C. Dorlo**", "Manica Balasegaram"]
 publication = "_The Lancet. Global Health_"

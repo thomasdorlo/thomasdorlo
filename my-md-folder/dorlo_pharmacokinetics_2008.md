@@ -1,6 +1,6 @@
 +++
 title = "Pharmacokinetics of miltefosine in Old World cutaneous leishmaniasis patients"
-date = "2008-01-01"
+date = "2008-08-01"
 publication_types = ["2"]
 authors = ["**Thomas P. C. Dorlo**", "Pieter P. A. M. van Thiel", "Alwin D. R. Huitema", "Ron J. Keizer", "Henry J. C. de Vries", "Jos H. Beijnen", "Peter J. de Vries"]
 publication = "_Antimicrobial Agents and Chemotherapy_"

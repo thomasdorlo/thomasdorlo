@@ -1,9 +1,9 @@
 +++
 title = "Safe mass drug administration for neglected tropical diseases"
-date = "2018-01-01"
+date = "2018-10-01"
 publication_types = ["2"]
 authors = ["Dziedzom K. de Souza", "**Thomas P. C. Dorlo**"]
-publication = "_The Lancet. Global Health_"
+publication = "_The Lancet Global Health_"
 abstract = ""
 doi = "10.1016/S2214-109X(18)30415-7"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/30223977"}]

@@ -1,6 +1,6 @@
 +++
 title = "Commentary: Substandard medicines are the priority for neglected tropical diseases"
-date = "2012-01-01"
+date = "2012-11-14"
 publication_types = ["2"]
 authors = ["**Thomas P. C. Dorlo**", "Raffaella M. Ravinetto", "Jos H. Beijnen", "Marleen Boelaert"]
 publication = "_BMJ (Clinical research ed.)_"

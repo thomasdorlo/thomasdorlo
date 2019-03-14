@@ -1,6 +1,6 @@
 +++
 title = "Severe encephalopathy and polyneuropathy induced by dichloroacetate"
-date = "2010-01-01"
+date = "2010-12-01"
 publication_types = ["2"]
 authors = ["Dieta Brandsma", "**Thomas P. C. Dorlo**", "John H. Haanen", "Jos H. Beijnen", "Willem Boogerd"]
 publication = "_Journal of Neurology_"

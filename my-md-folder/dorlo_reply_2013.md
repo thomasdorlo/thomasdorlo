@@ -1,9 +1,9 @@
 +++
 title = "Reply to Arya and Agarwal"
-date = "2013-01-01"
+date = "2013-09-01"
 publication_types = ["2"]
 authors = ["**Thomas P. C. Dorlo**", "Bart A. Ostyn", "Jos H. Beijnen", "Marleen Boelaert", "Jean-Claude Dujardin", "Suman Rijal"]
-publication = "_Clinical Infectious Diseases: An Official Publication of the Infectious Diseases Society of America_"
+publication = "_Clinical Infectious Diseases_"
 abstract = ""
 doi = "10.1093/cid/cit388"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/23759350"}]

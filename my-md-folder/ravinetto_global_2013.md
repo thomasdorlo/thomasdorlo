@@ -1,6 +1,6 @@
 +++
 title = "The global impact of Indian generics on access to health"
-date = "2013-01-01"
+date = "2013-06-01"
 publication_types = ["2"]
 authors = ["Raffaella M. Ravinetto", "**Thomas P. C. Dorlo**", "Jean-Michel Caudron", "N. S. Prashanth"]
 publication = "_Indian Journal of Medical Ethics_"

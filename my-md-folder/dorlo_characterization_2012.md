@@ -1,6 +1,6 @@
 +++
 title = "Characterization and identification of suspected counterfeit miltefosine capsules"
-date = "2012-01-01"
+date = "2012-03-07"
 publication_types = ["2"]
 authors = ["**Thomas P. C. Dorlo**", "Teunis A. Eggelte", "Peter J. de Vries", "Jos H. Beijnen"]
 publication = "_The Analyst_"

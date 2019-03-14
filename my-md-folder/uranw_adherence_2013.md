@@ -1,6 +1,6 @@
 +++
 title = "Adherence to miltefosine treatment for visceral leishmaniasis under routine conditions in Nepal"
-date = "2013-01-01"
+date = "2013-02-01"
 publication_types = ["2"]
 authors = ["Surendra Uranw", "Bart Ostyn", "**Thomas P. C. Dorlo**", "Epco Hasker", "Bruno Dujardin", "Jean-Claude Dujardin", "Suman Rijal", "Marleen Boelaert"]
 publication = "_Tropical medicine \\& international health: TM \\& IH_"

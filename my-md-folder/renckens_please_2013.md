@@ -1,6 +1,6 @@
 +++
 title = "Please, let not Western quackery replace traditional medicine in Africa"
-date = "2013-01-01"
+date = "2013-02-01"
 publication_types = ["2"]
 authors = ["Cees N. M. Renckens", "**Thomas P. C. Dorlo**"]
 publication = "_Tropical medicine \\& international health: TM \\& IH_"

@@ -1,6 +1,6 @@
 +++
 title = "[Miltefosine: a new remedy for leishmaniasis]"
-date = "2006-01-01"
+date = "2006-12-09"
 publication_types = ["2"]
 authors = ["**T. P. C. Dorlo**", "T. A. Eggelte", "J. H. Beijnen", "P. J. de Vries"]
 publication = "_Nederlands Tijdschrift Voor Geneeskunde_"

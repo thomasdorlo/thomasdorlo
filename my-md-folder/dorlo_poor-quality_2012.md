@@ -3,7 +3,7 @@ title = "A poor-quality generic drug for the treatment of visceral leishmaniasis
 date = "2012-01-01"
 publication_types = ["2"]
 authors = ["**Thomas P. C. Dorlo**", "Teunis A. Eggelte", "Gerard J. Schoone", "Peter J. de Vries", "Jos H. Beijnen"]
-publication = "_PLoS neglected tropical diseases_"
+publication = "_PLOS Neglected Tropical Diseases_"
 abstract = ""
 doi = "10.1371/journal.pntd.0001544"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/22666507"}]

@@ -1,6 +1,6 @@
 +++
 title = "Universal access to quality medicines: prioritisation of a-priori solutions"
-date = "2012-01-01"
+date = "2012-11-01"
 publication_types = ["2"]
 authors = ["**Thomas P. C. Dorlo**", "Marleen Boelaert", "Jos H. Beijnen", "Raffaella Ravinetto"]
 publication = "_The Lancet. Infectious Diseases_"

@@ -1,6 +1,6 @@
 +++
 title = "LeishMan recommendations for treatment of cutaneous and mucosal leishmaniasis in travelers, 2014"
-date = "2014-01-01"
+date = "2014-04-01"
 publication_types = ["2"]
 authors = ["Johannes Blum", "Pierre Buffet", "Leo Visser", "Gundel Harms", "Mark S. Bailey", "Eric Caumes", "Jan Clerinx", "Pieter P. A. M. van Thiel", "Gloria Morizot", "Christoph Hatz", "**Thomas P. C. Dorlo**", "Diana N. J. Lockwood"]
 publication = "_Journal of Travel Medicine_"
