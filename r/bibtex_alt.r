@@ -27,10 +27,18 @@ bib2acad2 <-function (bibfile = "", copybib = TRUE, abstract = TRUE, overwrite =
                                                                "PhdThesis" ~ "3", bibtype == "Manual" ~ "4", bibtype ==
                                                                "TechReport" ~ "4", bibtype == "Book" ~ "5", bibtype ==
                                                                "InCollection" ~ "6", bibtype == "InBook" ~ "6",
-                                                             bibtype == "Misc" ~ "0", TRUE ~ "0"))
+                                                             bibtype == "Book Chapter" ~ "6", bibtype == "Misc" ~ "0", TRUE ~ "0"))
   create_md <- function(x) {
     if (!is.na(x[["date"]])) {
-      x[["date"]] <- paste0(substr(x[["date"]],1,4), "-01-01")
+      if(nchar(x[["date"]]) == 4){
+        x[["date"]] <- paste0(substr(x[["date"]],1,4), "-01-01")
+      }
+      if(nchar(x[["date"]]) == 7){
+        x[["date"]] <- paste0(substr(x[["date"]],1,7), "-01")
+      }
+      if(nchar(x[["date"]]) == 10){
+        x[["date"]] <- x[["date"]]
+      }
     }
     else {
       x[["date"]] <- "2999-01-01"
