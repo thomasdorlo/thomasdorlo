@@ -21,7 +21,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Leishmania(c)",
+  "Leishmania\\(c\\)",
   "Neglected Tropical Diseases",
   "Data Science",
   "Pharmacometrics",
