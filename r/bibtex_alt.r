@@ -132,8 +132,12 @@ bib2acad2 <-function (bibfile = "", copybib = TRUE, abstract = TRUE, overwrite =
         write(paste0("links = [{name = \"PubMed\", url = \"https://www.ncbi.nlm.nih.gov/pubmed/", cleanStr(x[["pmid"]]),
                      "\"}]"), fileConn, append = T)
       }
+      if ("url" %in% names(x) && !is.na(x[["url"]])) {
+        write(paste0("links = [{name = \"Web\", url = \"",x[["url"]],
+                     "\"}]"), fileConn, append = T)
+      }
       else {
-        write("links = \"\"", fileConn, append = T)
+        write("links = []", fileConn, append = T)
       }
 
       # url_custom = [{name = "Custom Link", url = "http://example.org"}]
