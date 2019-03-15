@@ -7,6 +7,7 @@ publication = "_Journal of Chromatography B, Analytical Technologies in the Biom
 abstract = "A sensitive and specific liquid chromatography-tandem mass spectrometry (LC-MS/MS) assay for the quantification of miltefosine is presented. A 250 microL human EDTA plasma aliquot was spiked with miltefosine and extracted by a solid-phase extraction method. Separation was performed on a Gemini C18 column (150 mm x 2.0 mm I.D., 5 microm) using an alkaline eluent. Detection was performed by positive ion electrospray ionization followed by triple-quadrupole mass spectrometry. The assay has been validated for miltefosine from 4 to 2000 ng/mL using 250 microL human EDTA plasma samples. Results from the validation demonstrate that miltefosine can be accurately and precisely quantified in human plasma. At the lowest level, the intra-assay precision was lower than 10.7%, the inter-assay precision was 10.6% and accuracies were between 95.1 and 109%. This assay is successfully used in a clinical pharmacokinetic study with miltefosine."
 doi = "10.1016/j.jchromb.2008.02.005"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/18325856"}]
+links = []
 url_pdf = "pdf/dorlo_development_2008.pdf"
 abstract_short = ""
 image_preview = ""

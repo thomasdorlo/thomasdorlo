@@ -7,6 +7,7 @@ publication = "_Journal of Neurology_"
 abstract = ""
 doi = "10.1007/s00415-010-5654-9"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/20632025"}]
+links = []
 url_pdf = "pdf/brandsma_severe_2010.pdf"
 abstract_short = ""
 image_preview = ""

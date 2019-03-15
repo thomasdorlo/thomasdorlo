@@ -3,10 +3,11 @@ title = "Commentary: Substandard medicines are the priority for neglected tropic
 date = "2012-11-14"
 publication_types = ["2"]
 authors = ["**Thomas P. C. Dorlo**", "Raffaella M. Ravinetto", "Jos H. Beijnen", "Marleen Boelaert"]
-publication = "_BMJ (Clinical research ed.)_"
+publication = "_BMJ_"
 abstract = ""
 doi = "10.1136/bmj.e7518"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/23152570"}]
+links = []
 url_pdf = "pdf/dorlo_commentary_2012.pdf"
 abstract_short = ""
 image_preview = ""

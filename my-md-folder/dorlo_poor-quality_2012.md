@@ -7,6 +7,7 @@ publication = "_PLOS Neglected Tropical Diseases_"
 abstract = ""
 doi = "10.1371/journal.pntd.0001544"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/22666507"}]
+links = []
 url_pdf = "pdf/dorlo_poor-quality_2012.pdf"
 abstract_short = ""
 image_preview = ""

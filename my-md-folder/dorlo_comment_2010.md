@@ -7,6 +7,7 @@ publication = "_Transactions of the Royal Society of Tropical Medicine and Hygie
 abstract = ""
 doi = "10.1016/j.trstmh.2009.07.022"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/19836815"}]
+links = []
 url_pdf = ""
 abstract_short = ""
 image_preview = ""

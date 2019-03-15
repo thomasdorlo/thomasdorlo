@@ -7,6 +7,7 @@ publication = "_Stroke_"
 abstract = ""
 doi = "10.1161/STROKEAHA.117.017918"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/28663506"}]
+links = []
 url_pdf = "pdf/dorlo_letter_2017.pdf"
 abstract_short = ""
 image_preview = ""

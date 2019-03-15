@@ -7,6 +7,7 @@ publication = "_Clinical Infectious Diseases_"
 abstract = ""
 doi = "10.1093/cid/cit388"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/23759350"}]
+links = []
 url_pdf = "pdf/dorlo_reply_2013.pdf"
 abstract_short = ""
 image_preview = ""
