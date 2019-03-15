@@ -7,7 +7,6 @@ publication = "_PLOS Neglected Tropical Diseases_"
 abstract = "Parasite loads were quantified in repeated skin biopsies from lesions of 2 patients with Old-World cutaneous leishmaniasis (CL) caused by Leishmania major and L. infantum during and after treatment with miltefosine. Miltefosine induced a rapid therapeutic effect on both infections with an initial decline of parasites of around 1 log/week for the L. major infection. These observations illustrate the usability of quantifying parasite loads in skin lesions as a pharmacodynamic measure and quantitative descriptor of drug effect for CL supporting clinical assessment."
 doi = "10.1371/journal.pntd.0001436"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/22180803"}]
-links = []
 url_pdf = "pdf/dorlo_dynamics_2011.pdf"
 abstract_short = ""
 image_preview = ""

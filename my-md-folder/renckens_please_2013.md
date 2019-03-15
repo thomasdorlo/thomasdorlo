@@ -7,7 +7,6 @@ publication = "_Tropical Medicine \\& International Health:_"
 abstract = ""
 doi = "10.1111/tmi.12037"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/23217207"}]
-links = []
 url_pdf = "pdf/renckens_please_2013.pdf"
 abstract_short = ""
 image_preview = ""

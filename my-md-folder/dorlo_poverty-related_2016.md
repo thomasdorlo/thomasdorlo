@@ -7,7 +7,6 @@ publication = "_BMJ Global Health_"
 abstract = "The Poverty-Related Diseases College was a virtual African-European college and network that connected young African and European biomedical scientists working on poverty-related diseases. The aim of the Poverty-Related Diseases College was to build sustainable scientific capacity and international networks in poverty-related biomedical research in the context of the development of Africa. The Poverty-Related Diseases College consisted of three elective and mandatory training modules followed by a reality check in Africa and a science exchange in either Europe or the USA. In this analysis paper, we present our experience and evaluation, discuss the strengths and encountered weaknesses of the programme, and provide recommendations to policymakers and funders."
 doi = "10.1136/bmjgh-2016-000032"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/28588923"}]
-links = []
 url_pdf = "pdf/dorlo_poverty-related_2016.pdf"
 abstract_short = ""
 image_preview = ""

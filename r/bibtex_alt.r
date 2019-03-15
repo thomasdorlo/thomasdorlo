@@ -21,7 +21,7 @@ bib2acad2 <-function (bibfile = "", copybib = TRUE, abstract = TRUE, overwrite =
   mypubs$key <- rownames(mypubs)
   mypubs <- dplyr::mutate(mypubs, pubtype = dplyr::case_when(bibtype ==
                                                                "Article" ~ "2", bibtype == "Article in Press" ~ "2",
-                                                             bibtype == "InProceedings" ~ "1", bibtype == "Proceedings" ~
+                                                            bibtype == "InProceedings" ~ "1", bibtype == "Proceedings" ~
                                                                "1", bibtype == "Conference" ~ "1", bibtype == "Conference Paper" ~
                                                                "1", bibtype == "MastersThesis" ~ "3", bibtype ==
                                                                "PhdThesis" ~ "3", bibtype == "Manual" ~ "4", bibtype ==
@@ -136,9 +136,7 @@ bib2acad2 <-function (bibfile = "", copybib = TRUE, abstract = TRUE, overwrite =
         write(paste0("links = [{name = \"Web\", url = \"",x[["url"]],
                      "\"}]"), fileConn, append = T)
       }
-      else {
-        write("links = []", fileConn, append = T)
-      }
+
 
       # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
@@ -189,6 +187,7 @@ bib2acad2 <-function (bibfile = "", copybib = TRUE, abstract = TRUE, overwrite =
       }
     }
     if ("file" %in% names(x) && !is.na(x[["file"]])) {
+      filename_pdf <- (gsub(".md", ".pdf", filename_md))
       pdfloc <- gsub("Full Text:", "", x[["file"]])
       pdfloc <- gsub("Accepted Version:", "", pdfloc, fixed=TRUE)
       pdfloc <- gsub("C\\:", "C:", pdfloc, fixed=TRUE)

@@ -7,7 +7,6 @@ publication = "_Indian Journal of Medical Ethics_"
 abstract = ""
 doi = "10.20529/IJME.2013.035"
 links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/23697493"}]
-links = []
 url_pdf = "pdf/ravinetto_global_2013.pdf"
 abstract_short = ""
 image_preview = ""
