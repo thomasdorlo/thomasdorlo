@@ -6,7 +6,7 @@
   date = 2019-03-16T00:00:00
   
   # Project summary to display on homepage.
-  summary = "AfriKADIA is an EDCTP-funded consortium working to find improved treatments and diagnostic tools for visceral leishmaniasis in eastern Africa."
+  summary = "AfriKADIA is an EDCTP-funded consortium working to find improved treatments and diagnostic tools for the neglected tropical disease visceral leishmaniasis in eastern Africa."
   
   # Tags: can be used for filtering projects.
   # Example: `tags = ["machine-learning", "deep-learning"]`
