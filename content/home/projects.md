@@ -32,6 +32,11 @@ flip_alt_rows = false
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
 filter_default = 0
 
+[background]
+
+image = "kacheliba.jpg"
+image_darken = 0.6  
+
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
