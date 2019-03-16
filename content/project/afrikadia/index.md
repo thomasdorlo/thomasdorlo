@@ -41,7 +41,7 @@
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
 +++
     
 AfriKADIA is a consortium of ten organizations working to find improved treatments and diagnostic tools for visceral leishmaniasis in eastern Africa.
@@ -54,8 +54,7 @@ The study is being implemented under the [Leishmaniasis East Africa Platform (LE
 
 The AfriKADIA consortium is funded by the European & Developing Countries Clinical Trials Partnership (EDCTP). This project is part of the EDCTP2 programme which is supported by the European Union under Horizon 2020, its Framework Programme for Research and Innovation.
 
-{{< figure src="EDCTP_logo.jpg" title="EDCTP logo" height="100" >}}
-{{< figure src="EU_logo" title="EU logo" height="100" >}}
+{{< figure src="EDCTP_logo.jpg" height="100" >}}{{< figure src="EU_logo.jpg" height="100" >}}
 
 
 
