@@ -41,7 +41,7 @@
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  #focal_point = "Center"
 +++
     
 AfriKADIA is a consortium of ten organizations working to find improved treatments and diagnostic tools for visceral leishmaniasis in eastern Africa.
