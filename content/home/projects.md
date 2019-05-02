@@ -35,7 +35,7 @@ filter_default = 0
 [background]
 
 image = "kacheliba.jpg"
-image_darken = 0.6  
+image_darken = 0.1 
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
