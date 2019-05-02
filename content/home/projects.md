@@ -36,6 +36,7 @@ filter_default = 0
 
 image = "kacheliba.jpg"
 image_darken = 0.1 
+text_color_light = true
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
