@@ -1,6 +1,6 @@
 +++
 title = "Population Pharmacokinetics of Fludarabine in Children and Adults during Conditioning Prior to Allogeneic Hematopoietic Cell Transplantation"
-date = "2018-10-17"
+date = "2019-05-01"
 publication_types = ["2"]
 authors = ["Jurgen B. Langenhorst", "**Thomas P. C. Dorlo**", "Erik M. van Maarseveen", "Stefan Nierkens", "J&uuml;rgen Kuball", "Jaap Jan Boelens", "Charlotte van Kesteren", "Alwin D. R. Huitema"]
 publication = "_Clinical Pharmacokinetics_"
