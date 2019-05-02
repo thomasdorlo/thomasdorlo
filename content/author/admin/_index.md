@@ -107,9 +107,9 @@ interests = [
 
 +++
 
-Thomas Dorlo is a pharmacometrician and clinical pharmacology expert. His research interests include neglected tropical diseases, and anything related to modeling of pharmacokinetics (PK) and pharmacodynamics (PD). <br><br>
-He is leading a group that focuses on the clinical pharmacology, bioanalysis, therapeutic biomarker identification, and modelling and simulation of PK and PD, in the poverty-related diseases cutaneous leishmaniasis, post-kala-azar-dermal leishmaniasis, visceral leishmaniasis, and malaria. He co-leads the pharmacometrics group at the NKI, supervising various PhD students working on applied pharmacometrics in oncology. The research is particularly focused on optimization of drug therapy in vulnerable populations, such as pregnant women and children. His work is supported by an Veni fellowship from the Netherlands Organisation for Scientific Research (NWO) and various EDCTP grants. 
-
+Thomas Dorlo is a pharmacometrician and clinical pharmacology expert. His research interests include neglected tropical diseases, international health, and anything related to modeling of pharmacokinetics (PK) and pharmacodynamics (PD). <br><br>
+He is leading a group that focuses on clinical pharmacology, bioanalysis, biomarker evaluation, and modeling and simulation of PK and PD, for parasitic poverty-related diseases such as leishmaniasis (both cutaneous and visceral) and malaria. He co-leads the pharmacometrics group at the [NKI](http://www.nki.nl), supervising various PhD students working on applied pharmacometrics in oncology and maintaining the high-performance computing resources. The research is particularly focused on optimization of drug therapy in vulnerable populations, such as pregnant women and children. His work is supported by a Veni fellowship from the [Netherlands Organisation for Scientific Research (NWO)](http://www.nwo.nl) and various [EDCTP](http://www.edctp.org) grants. <br><br>
+Thomas is also a board member of the [Dutch Soviety against Quackery](http://www.kwakzalverij) and publishes regularly on non-scientific alternative medicine, such as homeopathy and traditional medicine.
 
 
 
