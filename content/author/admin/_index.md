@@ -107,7 +107,8 @@ interests = [
 
 +++
 
-Thomas Dorlo is a pharmacometrician and clinical pharmacology expert. His research interests include (neglected) tropical diseases, PK-PD modeling. 
+Thomas Dorlo is a pharmacometrician and clinical pharmacology expert. His research interests include neglected tropical diseases, and anything related to modeling of pharmacokinetics (PK) and pharmacodynamics (PD). <br><br>
+He is leading a group that focuses on the clinical pharmacology, bioanalysis, therapeutic biomarker identification, and modelling and simulation of PK and PD, in the poverty-related diseases cutaneous leishmaniasis, post-kala-azar-dermal leishmaniasis, visceral leishmaniasis, and malaria. He co-leads the pharmacometrics group at the NKI, supervising various PhD students working on applied pharmacometrics in oncology. The research is particularly focused on optimization of drug therapy in vulnerable populations, such as pregnant women and children. His work is supported by an Veni fellowship from the Netherlands Organisation for Scientific Research (NWO) and various EDCTP grants. 
 
 
 
