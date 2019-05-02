@@ -1,6 +1,6 @@
 +++
 title = "Pharmacokinetics, safety and efficacy of an allometric miltefosine regimen for the treatment of visceral leishmaniasis in Eastern African children: an open-label, phase-II clinical trial"
-date = "2018-09-05"
+date = "2019-05-01"
 publication_types = ["2"]
 authors = ["Jane Mbui", "Joseph Olobo", "Raymond Omollo", "Alexandra Solomos", "Anke E. Kip", "George Kirigi", "Patrick Sagaki", "Robert Kimutai", "Lilian Were", "Truphosa Omollo", "Thaddaeus W. Egondi", "Monique Wasunna", "Jorge Alvar", "**Thomas P. C. Dorlo**", "Fabiana Alves"]
 publication = "_Clinical Infectious Diseases_"
