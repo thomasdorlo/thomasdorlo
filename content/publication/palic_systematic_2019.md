@@ -1,6 +1,6 @@
 +++
 title = "Systematic review of host-mediated activity of miltefosine in leishmaniasis through immunomodulation"
-date = "2019-07"
+date = "2019-06-24"
 publication_types = ["2"]
 authors = ["Semra Pali&#263;", "Patrick Bhairosing", "Jos H. Beijnen", "**Thomas P.C. Dorlo**"]
 publication = "_Antimicrobial Agents and Chemotherapy_"
