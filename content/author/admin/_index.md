@@ -14,7 +14,7 @@ organizations = [ { name = "Antoni van Leeuwenhoek Hospital / Netherlands Cancer
 { name = "Consultant for Drugs for Neglected Diseases initiative (DNDi)", url = "http://www.dndi.org" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Pharmacometrics, neglected tropical diseases and global health."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
