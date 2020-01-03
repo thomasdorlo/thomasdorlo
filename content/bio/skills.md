@@ -38,7 +38,7 @@ weight = 1
   icon = "university"
   icon_pack = "fas"
   name = "Editor"
-  description = "I am Associate Editor for the open-access journals [Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) and [BMC Infectious Diseases](https://bmcinfectdis.biomedcentral.com/). I am member and chair-elect of the Scientific Organisation Committee of the [Population Approach Group Europe](https://www.page-meeting.org/) and steering committee member of the Pharmacometrics Network Benelux." 
+  description = "I am Associate Editor for the open-access journals [Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) and [BMC Infectious Diseases](https://bmcinfectdis.biomedcentral.com/), and Academic Editor for [PLOS ONE](https://journals.plos.org/plosone/). I am member and chair-elect of the Scientific Organisation Committee of the [Population Approach Group Europe](https://www.page-meeting.org/) and steering committee member of the Pharmacometrics Network Benelux." 
   
   [[feature]]
   icon = "pencil-alt"
