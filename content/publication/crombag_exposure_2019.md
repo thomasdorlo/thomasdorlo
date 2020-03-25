@@ -1,5 +1,6 @@
 +++
 title = "Exposure to Docetaxel in the Elderly Patient Population: A Population Pharmacokinetic Study"
+date = "2019-11-15"
 publication_types = ["2"]
 authors = ["Marie-Rose B. S. Crombag", "**Thomas P. C. Dorlo**", "Ellen van der Pan", "Anouk van Straten", "Andries M. Bergman", "Nielka P. van Erp", "Jos H. Beijnen", "Alwin D. R. Huitema"]
 publication = "_Pharmaceutical Research_"
