@@ -1,6 +1,6 @@
 +++
 title = "Population Pharmacokinetics of Docetaxel, Paclitaxel, Doxorubicin and Epirubicin in Pregnant Women with Cancer: A Study from the International Network of Cancer, Infertility and Pregnancy (INCIP)"
-date = "2021-28-01"
+date = "2021-01-28"
 publication_types = ["2"]
 authors = ["Julie M Janssen", "Kristel Van Calsteren", "**Thomas P. C. Dorlo**", "Michael J. Halaska", "Robert Fruscio", "Petronella Ottevanger", "Carolien P. Schröder", "Ingrid Boere", "Petronella O. Witteveen", "Rebecca C. Painter", "Ruud Bekkers", "Vit Drochytek", "Jos H. Beijnen", "Alwin D. R. Huitema", "Frederic C. H. Amant"]
 publication = "_Clinical Pharmacokinetics_"
