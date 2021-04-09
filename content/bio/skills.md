@@ -38,7 +38,7 @@ weight = 1
   icon = "university"
   icon_pack = "fas"
   name = "Editor"
-  description = "I am Associate Editor for the open-access journals [Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) and [BMC Infectious Diseases](https://bmcinfectdis.biomedcentral.com/), and Academic Editor for [PLOS ONE](https://journals.plos.org/plosone/). I am member and chair-elect of the Scientific Organisation Committee of the [Population Approach Group Europe](https://www.page-meeting.org/) and steering committee member of the Pharmacometrics Network Benelux." 
+  description = "I am Associate Editor for the open-access journals [Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) and [BMC Infectious Diseases](https://bmcinfectdis.biomedcentral.com/), and Academic Editor for [PLOS ONE](https://journals.plos.org/plosone/). I am Chair of the Scientific Organisation Committee of the [Population Approach Group Europe](https://www.page-meeting.org/) and past steering committee member of the Pharmacometrics Network Benelux." 
   
   [[feature]]
   icon = "pencil-alt"
@@ -50,7 +50,7 @@ weight = 1
   icon = "book"
   icon_pack = "fas"
   name = "Author"
-  description = "I am author and co-author of over 70 scientific journal articles and book chapters on various topics related to drug development, tropical medicine, clinical pharmacology, and quackery. I write regularly (in Dutch) for the [Dutch Society against Quackery](http://www.kwakzalverij.nl)."
+  description = "I am author and co-author of over 80 scientific journal articles and book chapters on various topics related to drug development, tropical medicine, clinical pharmacology, and quackery. I write regularly (in Dutch) for the [Dutch Society against Quackery](http://www.kwakzalverij.nl)."
   
 # [[feature]]
 #   icon = "microphone-alt"
