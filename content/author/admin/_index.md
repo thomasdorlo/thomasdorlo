@@ -48,7 +48,7 @@ interests = [
 [[education.courses]]
   course = "BSc in Pharmaceutical Sciences"
   institution = "Utrecht University"
-  year = 2004
+  year = 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
